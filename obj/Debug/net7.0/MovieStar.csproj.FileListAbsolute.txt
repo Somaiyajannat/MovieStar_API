@@ -1,0 +1,70 @@
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\appsettings.Development.json
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\appsettings.json
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.exe
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.deps.json
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.runtimeconfig.json
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.pdb
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.csproj.AssemblyReference.cache
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.AssemblyInfoInputs.cache
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.AssemblyInfo.cs
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.csproj.CoreCompileInputs.cache
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.MvcApplicationPartsAssemblyInfo.cs
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.MvcApplicationPartsAssemblyInfo.cache
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.MovieStar.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieStar.props
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieStar.props
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieStar.props
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets.build.json
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets.development.json
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\scopedcss\bundle\MovieStar.styles.css
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.csproj.CopyComplete
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.dll
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\refint\MovieStar.dll
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.pdb
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.genruntimeconfig.cache
+E:\Dot netCore\ApiProject\MovieStar\obj\Debug\net7.0\ref\MovieStar.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\AutoMapper.dll
+E:\Dot netCore\ApiProject\MovieStar\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\appsettings.Development.json
+D:\ApiProject\MovieStar\bin\Debug\net7.0\appsettings.json
+D:\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.exe
+D:\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.deps.json
+D:\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.runtimeconfig.json
+D:\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\MovieStar.pdb
+D:\ApiProject\MovieStar\bin\Debug\net7.0\AutoMapper.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ApiProject\MovieStar\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.csproj.AssemblyReference.cache
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.GeneratedMSBuildEditorConfig.editorconfig
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.AssemblyInfoInputs.cache
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.AssemblyInfo.cs
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.csproj.CoreCompileInputs.cache
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.MvcApplicationPartsAssemblyInfo.cs
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.MvcApplicationPartsAssemblyInfo.cache
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.MovieStar.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.build.MovieStar.props
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MovieStar.props
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MovieStar.props
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets.build.json
+D:\ApiProject\MovieStar\obj\Debug\net7.0\staticwebassets.development.json
+D:\ApiProject\MovieStar\obj\Debug\net7.0\scopedcss\bundle\MovieStar.styles.css
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.csproj.CopyComplete
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.dll
+D:\ApiProject\MovieStar\obj\Debug\net7.0\refint\MovieStar.dll
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.pdb
+D:\ApiProject\MovieStar\obj\Debug\net7.0\MovieStar.genruntimeconfig.cache
+D:\ApiProject\MovieStar\obj\Debug\net7.0\ref\MovieStar.dll
