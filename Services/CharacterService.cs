@@ -27,7 +27,7 @@ public class CharacterService : ICharacterService
     public async Task<ServiceResponse<CharacterDto>> getSingleCharacter(int id){
         var serviceResponse = new ServiceResponse<CharacterDto>();
         var data = characterList.Where(x => x.Id == id).FirstOrDefault();
-        serviceResponse.Data = _mapper.Map<CharacterDto>(characterList);
+        serviceResponse.Data = _mapper.Map<CharacterDto>(data);
         return serviceResponse;
 
     }
